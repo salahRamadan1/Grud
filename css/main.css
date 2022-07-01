@@ -1,0 +1,18 @@
+ body{
+     background-color: black;
+     color: white;
+ }
+ p{
+     cursor: pointer;
+ }
+ #add{
+     background-color: rgb(50, 50, 221);
+ }
+ .table{
+     user-select: none;
+ }
+ .iconCount{
+    border: solid white 1px;
+    border-radius: 5px ;
+    padding: 0px 2px ;
+ }
